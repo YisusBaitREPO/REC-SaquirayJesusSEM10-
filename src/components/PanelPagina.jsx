@@ -3,7 +3,6 @@ function Panel({encabezado, children}){
         <section className="tarjeta-info">
             <h2>{encabezado}</h2>
             <div>{children}</div>
-            <div>jollllllaaaa</div>
         </section>
     )
 }
